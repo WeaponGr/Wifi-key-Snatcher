@@ -10,6 +10,6 @@ The 4 files - key-trail.exe, netsh-profile.txt, netsh-key.txt, Erase data.bat
   .
   ABOUT ME:
 - Hi, I’m @WeaponGr
-- I’m interested in ...python, C#, machine-learning, arduino, system hacking, etc
+- I’m interested in python, C#, machine-learning, arduino, system hacking, etc
 - I’m currently studying in 12th std, India. Preparing for JEE exam
-- How to reach me ...puflex@gmail.com
+- How to reach me puflex@gmail.com
